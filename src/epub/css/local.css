@@ -116,6 +116,13 @@ blockquote header p b{
 	text-indent: 0;
 }
 
+#chapter-15 h3{
+	font-size: 1em;
+	font-variant: small-caps;
+	font-weight: normal;
+	margin: 1em 0;
+}
+
 footer{
 	margin-top: 1em;
 }
